@@ -30,4 +30,7 @@
 
 -- 15. **Drop table skill**
 
--- 16. **Drop table extra_type**
+
+
+Drop table innings;
+
